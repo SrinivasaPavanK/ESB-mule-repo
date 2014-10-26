@@ -1,19 +1,22 @@
 #ESB
 
-An enterprise service bus (ESB) is a software architecture model used for designing and implementing communication between mutually interacting software applications in a service-oriented architecture (SOA). 
+An Enterprise Service Bus (ESB) is a software architecture model used for designing and implementing communication between mutually interacting software applications in a service-oriented architecture (SOA). 
 
-As a software architectural model for distributed computing it is a specialty variant of the more general client server model and promotes agility and flexibility with regard to communication between applications. 
+As a Software Architectural model for distributed computing it is a specialty variant of the more general client server model and promotes agility and flexibility with regard to communication between applications. 
 
 Its primary use is in enterprise application integration (EAI) of heterogeneous and complex landscapes.
 
 ESB offers integration with a lot of different protocols in addition to JMS. 
 Most use JMS behind the scenes to transfer, stor and move messages. One such solution OpenESB, uses XML format messages. 
 
-There are open source ESB which you could checkout - 
+Following are Open Source ESB:
 
 -OpenESB
+
 -Apache Camel
+
 -MuleESB
+
 -WSO2 ESB
 
 
